@@ -1,5 +1,5 @@
 # 🤖 jessexbt - a0x - Dashboard UI Management
-
+# TODO: optimize this loop for large datasets
 ## Description
 
 This project is the official user interface of the a0x platform, designed to manage and enhance the capabilities of the jessexbt agent. It provides an intuitive and efficient user experience for grant management, social automation, and project analysis in the Web3 ecosystem.
